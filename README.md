@@ -1,5 +1,3 @@
-# mangata
-mangata
   "name": "mangata",
   "website": "https://github.com/licokce",
   "description": "https://github.com/licokce",
